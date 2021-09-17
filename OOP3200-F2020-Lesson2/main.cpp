@@ -66,6 +66,8 @@ int main()
 	int inputY; // temporary input variable for y
 	// to store the distance between two points
 
+	
+
 	try
 	{
 		// Input
@@ -111,20 +113,20 @@ int main()
 *	@return	the distance as a double
 */
 
-{
+//{
 	// difference between x values
 	// difference between y values
 	// return the formula (based on Pythagorean theorem)
 
-}
+//}
 
 /** ToString Method for CartesianPoint class
 *	Converts the obj to a string.
 *	@return	the obj state as a string
 */
 
-{
+//{
 	// declare a stringstream object
 	// build the string
 	// return the string
-}
+//}
